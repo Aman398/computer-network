@@ -1,0 +1,29 @@
+d 3
+Issued
+total = 338	waiting = 0	issued = 60	excessALU = 0	excessMEM = 0	others = 278
+Count of cycles = 199
+Warps sixe = 2
+warp_id 0
+Others
+warp_id 4
+Others
+total = 340	waiting = 0	issued = 60	excessALU = 0	excessMEM = 0	others = 280
+Count of cycles = 200
+Warps sixe = 2
+warp_id 1
+Issued
+total = 341	waiting = 0	issued = 61	excessALU = 0	excessMEM = 0	others = 280
+Count of cycles = 201
+Warps sixe = 2
+warp_id 2
+Issued
+total = 342	waiting = 0	issued = 62	excessALU = 0	excessMEM = 0	others = 280
+Count of cycles = 202
+Warps sixe = 2
+warp_id 3
+Issued
+total = 343	waiting = 0	issued = 63	excessALU = 0	excessMEM = 0	others = 280
+Count of cycles = 203
+Warps sixe = 2
+warp_id 0
+Others
